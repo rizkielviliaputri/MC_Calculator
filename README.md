@@ -1,1 +1,2 @@
-# MC_Calculator
+# S-Calculator
+Simple Calculator
